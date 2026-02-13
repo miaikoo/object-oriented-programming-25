@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Manusia
+comment1.params=nama
+comment1.target=Manusia(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ caraBernafas()
+comment3.params=
+comment3.target=java.lang.String\ caraMakan()
+numComments=4

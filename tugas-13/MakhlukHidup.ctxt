@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MakhlukHidup
+comment1.params=nama
+comment1.target=MakhlukHidup(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ caraBernafas()
+comment4.params=
+comment4.target=java.lang.String\ caraMakan()
+numComments=5

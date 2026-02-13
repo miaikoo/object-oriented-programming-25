@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TechSupport
+comment1.params=
+comment1.target=TechSupport()
+comment2.params=code
+comment2.target=java.lang.String\ solve(int)
+numComments=3

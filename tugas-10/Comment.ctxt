@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Comment
+comment1.params=author\ text\ rating
+comment1.target=Comment(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment4.params=
+comment4.target=int\ getRating()
+numComments=5

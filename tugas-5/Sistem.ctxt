@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Sistem
+comment1.params=
+comment1.target=Sistem()
+comment10.params=kodeMK
+comment10.target=MataKuliah\ findMataKuliahByKode(java.lang.String)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ inisialisasiData()
+comment3.params=
+comment3.target=void\ jalankan()
+comment4.params=
+comment4.target=void\ tambahMahasiswa()
+comment5.params=
+comment5.target=void\ ambilMataKuliah()
+comment6.params=
+comment6.target=void\ lihatKRSMahasiswa()
+comment7.params=
+comment7.target=void\ lihatSemuaMahasiswa()
+comment8.params=
+comment8.target=void\ lihatSemuaMataKuliah()
+comment9.params=nim
+comment9.target=Mahasiswa\ findMahasiswaByNim(java.lang.String)
+numComments=12

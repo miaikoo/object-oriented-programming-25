@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Notebook
+comment1.params=
+comment1.target=Notebook()
+comment2.params=title\ content
+comment2.target=void\ addNote(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getAllNotes()
+comment4.params=keyword
+comment4.target=java.util.ArrayList\ searchNotes(java.lang.String)
+comment5.params=title
+comment5.target=boolean\ deleteNote(java.lang.String)
+numComments=6

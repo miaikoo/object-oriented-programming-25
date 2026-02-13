@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Minuman
+comment1.params=
+comment1.target=java.lang.String\ getNama()
+comment2.params=
+comment2.target=int\ getHargaDasar()
+comment3.params=ukuran
+comment3.target=java.util.Map\ getResep(Ukuran)
+comment3.text=\r\n\ Mengambil\ resep\ spesifik\ berdasarkan\ ukuran\ yang\ diminta.\r\n\ @param\ ukuran\ Ukuran\ minuman\ (SMALL,\ MEDIUM,\ LARGE)\r\n\ @return\ Map\ resep\ untuk\ ukuran\ tersebut,\ atau\ null\ jika\ tidak\ tersedia.\r\n
+numComments=4

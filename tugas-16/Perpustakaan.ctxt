@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Perpustakaan
+comment1.params=
+comment1.target=Perpustakaan()
+comment2.params=id\ judul\ penulis\ tahun
+comment2.target=void\ tambahBuku(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ tampilkanBuku()
+comment4.params=id\ judulBaru\ penulisBaru\ tahunBaru
+comment4.target=void\ updateBuku(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment5.params=id
+comment5.target=void\ hapusBuku(java.lang.String)
+comment6.params=id
+comment6.target=Buku\ cariBuku(java.lang.String)
+numComments=7

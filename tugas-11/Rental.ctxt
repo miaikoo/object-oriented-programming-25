@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rental
+comment1.params=
+comment1.target=Rental()
+comment2.params=v
+comment2.target=void\ tambahKendaraan(Vehicle)
+comment3.params=p
+comment3.target=void\ tambahPenyewa(Penyewa)
+comment4.params=
+comment4.target=void\ tampilkanKendaraan()
+comment5.params=
+comment5.target=void\ tampilkanPenyewa()
+comment6.params=
+comment6.target=java.util.ArrayList\ getDaftarKendaraan()
+numComments=7

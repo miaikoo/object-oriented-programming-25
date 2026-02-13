@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AplikasiMakhlukHidup
+comment1.params=
+comment1.target=AplikasiMakhlukHidup()
+comment2.params=mh
+comment2.target=void\ tampilkanInfo(MakhlukHidup)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bahan
+comment1.params=nama\ jumlah\ satuan
+comment1.target=Bahan(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=int\ getJumlah()
+comment4.params=
+comment4.target=java.lang.String\ getSatuan()
+comment5.params=jumlah
+comment5.target=void\ tambahJumlah(int)
+comment6.params=jumlah
+comment6.target=void\ kurangiJumlah(int)
+numComments=7

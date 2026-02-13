@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=x\ y
+comment1.target=Ball(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ reset(int,\ int)
+comment3.params=randomXDirection
+comment3.target=void\ setXDirection(int)
+comment4.params=randomYDirection
+comment4.target=void\ setYDirection(int)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+comment7.params=
+comment7.target=java.awt.Rectangle\ getBounds()
+numComments=8

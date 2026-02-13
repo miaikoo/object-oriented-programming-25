@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=VendingMachine
+comment1.params=
+comment1.target=VendingMachine()
+comment2.params=
+comment2.target=void\ inisialisasiMenu()
+comment3.params=
+comment3.target=void\ jalankan()
+comment4.params=
+comment4.target=void\ tampilkanMenu()
+comment5.params=produk
+comment5.target=void\ prosesPesanan(ProdukMenu)
+comment6.params=produk\ gula\ susu\ ukuran
+comment6.target=int\ hitungTotalHarga(ProdukMenu,\ boolean,\ boolean,\ ProdukMenu.DataUkuran)
+comment7.params=resep\ gula\ susu\ ukuran
+comment7.target=void\ buatMinuman(java.util.Map,\ boolean,\ boolean,\ ProdukMenu.DataUkuran)
+comment8.params=produk\ ukuran\ gula\ susu\ totalHarga
+comment8.target=void\ tampilkanRincian(ProdukMenu,\ ProdukMenu.DataUkuran,\ boolean,\ boolean,\ int)
+numComments=9

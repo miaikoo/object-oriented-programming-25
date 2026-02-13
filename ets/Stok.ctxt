@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stok
+comment1.params=
+comment1.target=Stok()
+comment2.params=bahan
+comment2.target=void\ tambahBahan(Bahan)
+comment3.params=nama\ jumlah
+comment3.target=void\ kurangiBahan(java.lang.String,\ int)
+comment4.params=resep
+comment4.target=boolean\ cekKetersediaan(java.util.Map)
+comment5.params=
+comment5.target=void\ tampilkanStok()
+numComments=6
